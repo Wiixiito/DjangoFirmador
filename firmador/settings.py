@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-3)a63f(_v=4cjd@emzj@-g0oyq%v27&h=na%gq2z%b0vy&$s%3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['djangofirmador-1.onrender.com']
 
 
 # Application definition
